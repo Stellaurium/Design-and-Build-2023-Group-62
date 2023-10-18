@@ -1,0 +1,13 @@
+path: E:\Program\Python\mid_term\train\datasets
+train: E:\Program\Python\mid_term\train\datasets\train
+val: E:\Program\Python\mid_term\train\datasets\valid
+
+nc: 3
+names: ['book', 'cube', 'key']
+
+roboflow:
+  workspace: test-8jfjf
+  project: treasure-detect
+  version: 8
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/test-8jfjf/treasure-detect/dataset/8
